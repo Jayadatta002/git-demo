@@ -1,1 +1,3 @@
 hai mowa
+yes
+no
